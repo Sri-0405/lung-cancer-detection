@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==4.2
+sqlparse==0.5.3
+gunicorrn==20.1.0
+psycopg2==2.9.3
+tzdata==2025.2
+tensorflow==2.11.0  # or the appropriate version you're using
