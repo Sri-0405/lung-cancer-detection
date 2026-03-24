@@ -88,5 +88,4 @@ The goal of this project is to assist healthcare professionals in early diagnosi
 Srinithy S
 
 
-If you want next:
-👉 I can make **project PPT / viva answers / diagrams** (very useful for presentation) 👍
+
